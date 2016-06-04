@@ -1,0 +1,20 @@
+body{ 
+	background-color: #cc99ff;
+}
+h1{
+	font-size: 300%;
+	padding-bottom: 50px;
+}
+.done{
+	text-decoration: line-through;
+	color: red;
+}
+li{
+	font-size: 200%;
+}
+#todoarea{
+	border: black medium solid;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 335px;
+}
